@@ -25,7 +25,7 @@ fig.savefig("ugi-fullparanome.dotplot.png")
 ## Installation
 
 ```
-git clone https://github.com/arzwa/dotplot
+git clone https://github.com/arzwa/dotplot.git
 cd dotplot
 pip install .  # try pip3 if pip not found
 ```
