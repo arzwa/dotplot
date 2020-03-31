@@ -5,7 +5,7 @@ Make triangular within-genome dot-plots of blast hits, homologs, etc. using matp
 
 From within the `example` directory of this repository:
 
-```
+```python
 import dotplot
 import matplotlib.pyplot as plt
 
